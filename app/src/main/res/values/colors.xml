@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="black">#FF000000</color>
+  <color name="primaryTextColor">#bfc7d2</color>
+  <color name="bgMainColor">#121c2c</color>
+  <color name="cardStokeColor">#212b3b</color>
+  <color name="auxSecondaryTextColor">#212b3b</color>
+  <color name="secondaryTextColor">#7b8797</color>
+  <color name="cardBgColor">#161e29</color>
+  <color name="titleTextViolentColor">#a87ffb</color>
+</resources>
